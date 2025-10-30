@@ -1,4 +1,4 @@
-from core import game_logic, deck, player_io
+from core import game_logic, deck
 
 if __name__ == "__main__":
     game_deck = deck.build_standard_deck()
