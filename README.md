@@ -1,1 +1,4 @@
-# test_blackjack
+David
+Troppe
+negev
+347662413
